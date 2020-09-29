@@ -10,7 +10,14 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 2:
 
 ![activity2 screenshot](./screenshots/A2_1.png "Activity 2 screenshot")
+
 ![activity2 screenshot](./screenshots/A2_2.png "Activity 2 screenshot")
+
+![activity2 screenshot](./screenshots/A2_3.png "Activity 2 screenshot")
+
+![activity2 screenshot](./screenshots/A2_4.png "Activity 2 screenshot")
+
+![activity2 screenshot](./screenshots/A2_5.png "Activity 2 screenshot")
 
 ## Activity 3:
 SQL databases are relational databases where data is stored in tables of fixed columns 
